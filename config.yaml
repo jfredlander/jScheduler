@@ -1,7 +1,7 @@
 name: "jScheduler"
 description: "My first real add-on!"
-version: "0.0.1"
-slug: "jScheduler"
+version: "1.0.0"
+slug: "jscheduler"
 init: false
 arch:
   - aarch64
